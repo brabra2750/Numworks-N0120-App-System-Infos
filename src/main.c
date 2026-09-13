@@ -83,7 +83,7 @@ int main(int argc, char * argv[]) {
         // --- CADRE 2 : ARCHITECTURE & RAM ---
         draw_text("[ARCH & MEMOIRE]", 14, 94, C_CYAN, C_CARD);
         draw_text("CPU     : ARM Cortex-M7 (STM32F730)", 14, 110, C_TEXT, C_CARD);
-        snprintf(buf, sizeof(buf), "RAM    : ~%lu Bytes (Local Frame)", (unsigned long)stack_used);
+        snprintf(buf, sizeof(buf), "RAM     : ~%lu Bytes (Local Frame)", (unsigned long)stack_used);
         draw_text(buf, 14, 126, C_TEXT, C_CARD);
 
         // --- CADRE 3 : CONFORMITE & MODELE ---

@@ -19,6 +19,11 @@ Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, C
 - Model
 - Normes
 - Localisation d'assemblage
+## A Venir
+
+-Interface plus élaboré et dans le thème NumWorks
+-Image et thème d'application synchroniser avec le mode sombre.
+
 ## Screenshots
 
 ![Loading](https://www.biolab-martinique.fr/wp-content/uploads/2023/01/bientot-disponible.png)

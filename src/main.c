@@ -40,7 +40,7 @@ int main(int argc, char * argv[]) {
 
     // --- DÉCOR STATIQUE ---
     eadk_display_push_rect_uniform((eadk_rect_t){0, 0, 320, 20}, C_HEADER);
-    draw_text("SYSINFO V1.1 |  Official NumWorks OS", 8, 2, C_TEXT, C_HEADER);
+    draw_text("SYSINFO V1.1  |  Official NumWorks OS", 8, 2, C_TEXT, C_HEADER);
     eadk_display_push_rect_uniform((eadk_rect_t){0, 20, 320, 220}, C_BG);
 
     // Conteneurs Cartes triées par catégories
@@ -83,7 +83,7 @@ int main(int argc, char * argv[]) {
         // --- CADRE 2 : ARCHITECTURE & RAM ---
         draw_text("[ARCH & MEMOIRE]", 14, 94, C_CYAN, C_CARD);
         draw_text("CPU     : ARM Cortex-M7 (STM32F730)", 14, 110, C_TEXT, C_CARD);
-        snprintf(buf, sizeof(buf), "RAM   : ~%lu Bytes (Local Frame)", (unsigned long)stack_used);
+        snprintf(buf, sizeof(buf), "RAM    : ~%lu Bytes (Local Frame)", (unsigned long)stack_used);
         draw_text(buf, 14, 126, C_TEXT, C_CARD);
 
         // --- CADRE 3 : CONFORMITE & MODELE ---

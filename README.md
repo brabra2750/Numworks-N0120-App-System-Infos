@@ -24,6 +24,7 @@ Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, C
 - Interface plus élaboré et dans le thème NumWorks
 - Image et thème d'application synchroniser avec le mode sombre.
 - Autre infos visible dans l'application.
+- Ajout d'un menu de séléction (crédit, info, version,...)
 
 ## Screenshots
 

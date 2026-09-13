@@ -21,8 +21,9 @@ Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, C
 - Localisation d'assemblage
 ## A Venir
 
--Interface plus élaboré et dans le thème NumWorks
--Image et thème d'application synchroniser avec le mode sombre.
+- Interface plus élaboré et dans le thème NumWorks
+- Image et thème d'application synchroniser avec le mode sombre.
+- Autre infos visible dans l'application.
 
 ## Screenshots
 

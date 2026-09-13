@@ -1,65 +1,51 @@
-
+![Logo](https://cdn.numworks.com/4bc58f5e.png)
 # Numworks N0120 System Infos Application
 
 Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, Conformité, Architecture, Mémoire, FPS, Boucles et Temps allumé.
-## Créations et Dévelopement
+## Comment l'installer
+- Rendez-vous dans les [Releases](https://github.com/brabra2750/Numworks-N0120-App-System-Infos/releases).
+- Télécharger la dernière version du fichier `app.nwa`.
+- Rendez-vous sur le site [Numworks](https://my.numworks.com/apps) pour installer l'application. (Connecter vous si besoin)
+- Brancher votre calculette au PC et suivez les instructions.
+- C'est bon !
+- (Si quand vous lançer l'application, la calculatrice redémarre ce n'est pas un bug. Suivez les instructions de démarrage puis re-lançer l'application.)
+## Fonctionnalités
 
-- [@brabra2750](https://www.github.com/brabra2750)
-## Documentation
+- Temps écran allumé depuis dernière exctinction complète
+- FPS (Frame par Seconde)
+- Vitesse de travail
+- Info CPU
+- Info RAM Utilisés
+- Model
+- Normes
+- Localisation d'assemblage
+## Screenshots
 
-[Documentation](https://linktodocumentation)
+![Loading](https://www.biolab-martinique.fr/wp-content/uploads/2023/01/bientot-disponible.png)
+## Technologies et Languages de code utilisés
 
+**Languages :** C et Makefile
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+**Technologies :** Node, GIT, MSYS2 et ARM GNU ToolChain
 
 
 ## Feedback
 
-Si vous avez des commentaires à nous faire parvenir, n'hésitez pas à nous contacter via les 
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
-## Screenshots
-
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
+Si vous avez des commentaires à nous faire parvenir, n'hésitez pas à nous contacter via les [Pull Requests](https://github.com/brabra2750/Numworks-N0120-App-System-Infos/pulls).
 
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+Si vous souhaiter me proposer une **Fonctionnalité** pour cette applications ou signaler un **Bug** veuiller vous rendre dans les [issues](https://github.com/brabra2750/Numworks-N0120-App-System-Infos/issues).
 
 
-## Tech Stack
+## Autre Project Numworks
+D'autre Projet sont en cours et pourrais apparaitre ici dans le futur.
+## Créations et Dévelopement
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
+- [@brabra2750](https://www.github.com/brabra2750)
+## 🔗 Links
+![Static Badge](https://img.shields.io/badge/Guns.Lol-blue?link=https%3A%2F%2Fguns.lol%2Fboulard_64)
+![Static Badge](https://img.shields.io/badge/Github-grey?link=https%3A%2F%2Fgithub.com%2Fbrabra2750)
 ## License
 ![Static Badge](https://img.shields.io/badge/Licence-Sans_Licence-blue?style=plastic&link=https%3A%2F%2Fchoosealicense.com%2Flicenses%2Funlicense%2F)
-

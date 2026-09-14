@@ -25,7 +25,6 @@ Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, C
 - Image et thème d'application synchroniser avec le mode sombre.
 - Autre infos visible dans l'application.
 - Ajout d'un menu de séléction (crédit, info, version,...)
-
 ## Screenshots
 
 ![Loading](https://www.biolab-martinique.fr/wp-content/uploads/2023/01/bientot-disponible.png)
@@ -34,20 +33,16 @@ Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, C
 **Languages :** C et Makefile
 
 **Technologies :** Node, GIT, MSYS2 et ARM GNU ToolChain
-
-
 ## Feedback
 
 Si vous avez des commentaires à nous faire parvenir, n'hésitez pas à nous contacter via les [Pull Requests](https://github.com/brabra2750/Numworks-N0120-App-System-Infos/pulls).
-
-
 ## Support
 
 Si vous souhaiter me proposer une **Fonctionnalité** pour cette applications ou signaler un **Bug** veuiller vous rendre dans les [issues](https://github.com/brabra2750/Numworks-N0120-App-System-Infos/issues).
-
-
 ## Autre Project Numworks
-D'autre Projet sont en cours comme l'application Vecteurs et Leçon et pourrais apparaitre ici dans le futur.
+
+- [Vecteurs](https://github.com/brabra2750/Numworks-N0120-App-Vecteurs)
+- D'autre Projet sont en cours comme l'application Leçon et pourrais apparaitre ici dans le futur.
 ## Créations et Dévelopement
 
 - [@brabra2750](https://www.github.com/brabra2750)

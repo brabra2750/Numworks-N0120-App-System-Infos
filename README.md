@@ -47,7 +47,7 @@ Si vous souhaiter me proposer une **Fonctionnalité** pour cette applications ou
 
 
 ## Autre Project Numworks
-D'autre Projet sont en cours et pourrais apparaitre ici dans le futur.
+D'autre Projet sont en cours comme l'application Vecteurs et Leçon et pourrais apparaitre ici dans le futur.
 ## Créations et Dévelopement
 
 - [@brabra2750](https://www.github.com/brabra2750)

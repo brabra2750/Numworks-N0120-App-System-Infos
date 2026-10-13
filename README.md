@@ -42,6 +42,7 @@ Si vous souhaiter me proposer une **Fonctionnalité** pour cette applications ou
 ## Autre Project Numworks
 
 - [Vecteurs](https://github.com/brabra2750/Numworks-N0120-App-Vecteurs)
+- [Outils](https://github.com/brabra2750/Numworks-N0120-App-Outils)
 - D'autre Projet sont en cours comme l'application Leçon et pourrais apparaitre ici dans le futur.
 ## Créations et Dévelopement
 
